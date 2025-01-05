@@ -46,7 +46,7 @@ Este script define a funcionalidade de um menu de jogo, permitindo que o jogador
 
    Selecione a cena principal na pasta Scenes. Clique no botão "Play" na Unity para iniciar o jogo.
 
-## | Exemplos de uso desses scripts em Games 3D
+## | Exemplos de uso desses scripts em Games 2D
 
 ## | Controle do Player
  <img width="939" alt="6fea2e9c-933e-4776-8360-a76bd3b65591_Screen_Shot_2020_06_17_at_6 27 02_PM" src="https://github.com/user-attachments/assets/ab75b94a-12f2-4c94-899a-64d010c3b3d4" />
