@@ -32,7 +32,7 @@ Este script define a funcionalidade de um menu de jogo, permitindo que o jogador
    
    ```bash
    
-   git clone https://github.com/BackandDeveloper/seu-repositorio.git
+   git clone https://github.com/BackandDeveloper/Scripts-em-CSharp-para-Unity-Game-TopDanw-2D/.git
 
 2. Abra o projeto na Unity:
    
