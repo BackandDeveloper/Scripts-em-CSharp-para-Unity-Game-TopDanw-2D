@@ -51,6 +51,7 @@ Este script define a funcionalidade de um menu de jogo, permitindo que o jogador
 
    ![hq720](https://github.com/user-attachments/assets/7945dbde-edb1-4274-9f88-594119624be0)
 
+  ![2746330_8371_5](https://github.com/user-attachments/assets/7f5c7987-7d51-4edf-b8fb-c5a76cea3445)
 
 
 Contribuições
