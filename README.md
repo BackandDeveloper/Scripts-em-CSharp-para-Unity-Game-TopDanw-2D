@@ -54,8 +54,7 @@ Este script define a funcionalidade de um menu de jogo, permitindo que o jogador
 
   ![2746330_8371_5](https://github.com/user-attachments/assets/7f5c7987-7d51-4edf-b8fb-c5a76cea3445)
 
- <img width="939" alt="6fea2e9c-933e-4776-8360-a76bd3b65591_Screen_Shot_2020_06_17_at_6 27 02_PM" src="https://github.com/user-attachments/assets/8b6c8700-e152-4621-8ac7-6ae39cbbb8da
-" />
+ <img width="939" alt="6fea2e9c-933e-4776-8360-a76bd3b65591_Screen_Shot_2020_06_17_at_6 27 02_PM" src="https://github.com/user-attachments/assets/8b6c8700-e152-4621-8ac7-6ae39cbbb8da" />
 
 Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
