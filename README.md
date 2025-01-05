@@ -29,6 +29,7 @@ Este script define a funcionalidade de um menu de jogo, permitindo que o jogador
 ## Como Executar
 
 1. Clone este repositório:
+   
    ```bash
    
    git clone https://github.com/BackandDeveloper/seu-repositorio.git
