@@ -10,7 +10,7 @@ Este repositório contém uma coleção de scripts e recursos para o desenvolvim
   - `Animations/`: Contém todas as animações utilizadas no projeto.
   - `Scenes/`: Contém todas as cenas do projeto.
 
-## | Scripts
+## 📑| Scripts
 ### 1. AtaqueInimigo.cs
 Este script define o comportamento de um inimigo que pode atacar o jogador quando este entra em sua área de alcance.
 
