@@ -62,7 +62,7 @@ Este script define a funcionalidade de um menu de jogo, permitindo que o jogador
 ## | Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
-#| Licença
+##| Licença
 Este projeto está licenciado sob a MIT License.
 
 | Contato
