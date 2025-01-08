@@ -26,7 +26,7 @@ Este script permite salvar a posição e a vida do jogador quando ele colide com
 ### 5. MenuManage.cs
 Este script define a funcionalidade de um menu de jogo, permitindo que o jogador inicie o jogo ou saia dele.
 
-## |Como Executar
+## | Como Executar
 
 1. Clone este repositório:
    
