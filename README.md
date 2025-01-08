@@ -50,7 +50,7 @@ Este script define a funcionalidade de um menu de jogo, permitindo que o jogador
 ## | Exemplos do uso desses scripts em Games 2D, TopDanw
 
 ## | Controle do Player
- <img width="939" alt="6fea2e9c-933e-4776-8360-a76bd3b65591_Screen_Shot_2020_06_17_at_6 27 02_PM" src="" />
+ <img width="700" alt="6fea2e9c-933e-4776-8360-a76bd3b65591_Screen_Shot_2020_06_17_at_6 27 02_PM" src="" />
 
 ## | Movimento do inimigo 
 <img width="939" alt="6fea2e9c-933e-4776-8360-a76bd3b65591_Screen_Shot_2020_06_17_at_6 27 02_PM" src="" />
