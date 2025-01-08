@@ -3,7 +3,7 @@
 ## 📖| Descrição
 Este repositório contém uma coleção de scripts e recursos para o desenvolvimento de jogos 2D Top-Down na Unity. Os scripts incluem funcionalidades como movimento de personagens, ataques, IA de inimigos, e muito mais.
 
-## | Estrutura do Projeto
+## 🗂️| Estrutura do Projeto
 - `Assets/`: Contém todos os recursos do projeto, incluindo scripts, sprites, animações, e cenas.
   - `Scripts/`: Contém todos os scripts C# utilizados no projeto.
   - `Sprites/`: Contém todos os sprites e imagens utilizados no projeto.
