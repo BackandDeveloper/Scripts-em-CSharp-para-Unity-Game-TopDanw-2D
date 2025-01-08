@@ -1,6 +1,6 @@
 # 🎮| Script para o desenvolvimento de Jogos 2D Top-Down na Unity
 
-## | Descrição
+## 📖| Descrição
 Este repositório contém uma coleção de scripts e recursos para o desenvolvimento de jogos 2D Top-Down na Unity. Os scripts incluem funcionalidades como movimento de personagens, ataques, IA de inimigos, e muito mais.
 
 ## | Estrutura do Projeto
