@@ -53,7 +53,7 @@ Este script define a funcionalidade de um menu de jogo, permitindo que o jogador
  <img width="700" alt="6fea2e9c-933e-4776-8360-a76bd3b65591_Screen_Shot_2020_06_17_at_6 27 02_PM" src="https://github.com/user-attachments/assets/9cd4b0db-5e72-4e26-976b-f1ec315c669a" />
 
 ## 👾| Movimento do inimigo 
-<img width="700" alt="6fea2e9c-933e-4776-8360-a76bd3b65591_Screen_Shot_2020_06_17_at_6 27 02_PM" src="" />
+<img width="700" alt="6fea2e9c-933e-4776-8360-a76bd3b65591_Screen_Shot_2020_06_17_at_6 27 02_PM" src="https://github.com/user-attachments/assets/0c355926-bf3e-4dff-90f3-65d9c649a287" />
 
 ## 🔫| Ataque inimgo
  <img width="700" alt="6fea2e9c-933e-4776-8360-a76bd3b65591_Screen_Shot_2020_06_17_at_6 27 02_PM" src="https://github.com/user-attachments/assets/0c355926-bf3e-4dff-90f3-65d9c649a287" />
