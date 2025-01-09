@@ -61,7 +61,6 @@ Este script define a funcionalidade de um menu de jogo, permitindo que o jogador
 ![4crop](https://github.com/user-attachments/assets/84aef37e-6bdb-4179-a032-cec6027ffbe4)![Uploading 4crop.gif…]()
 
 
-
 ## 👥| Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade de E-mail solicitando!
 
