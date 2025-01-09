@@ -56,7 +56,7 @@ Este script define a funcionalidade de um menu de jogo, permitindo que o jogador
 <img width="700" alt="6fea2e9c-933e-4776-8360-a76bd3b65591_Screen_Shot_2020_06_17_at_6 27 02_PM" src="https://github.com/user-attachments/assets/0c355926-bf3e-4dff-90f3-65d9c649a287" />
 
 ## 🔫| Ataque inimgo
- <img width="700" alt="6fea2e9c-933e-4776-8360-a76bd3b65591_Screen_Shot_2020_06_17_at_6 27 02_PM" src="https://github.com/user-attachments/assets/a12b2873-e87b-4597-89d0-94628d076eb0" />
+ <img width="700" alt="6fea2e9c-933e-4776-8360-a76bd3b65591_Screen_Shot_2020_06_17_at_6 27 02_PM" src="" />
 
 ![4crop](https://github.com/user-attachments/assets/84aef37e-6bdb-4179-a032-cec6027ffbe4)![Uploading 4crop.gif…]()
 
