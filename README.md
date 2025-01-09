@@ -59,7 +59,7 @@ Este script define a funcionalidade de um menu de jogo, permitindo que o jogador
  <img width="700" alt="6fea2e9c-933e-4776-8360-a76bd3b65591_Screen_Shot_2020_06_17_at_6 27 02_PM" src="https://github.com/user-attachments/assets/0c355926-bf3e-4dff-90f3-65d9c649a287" />
 
 ## 👥| Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade de E-mail 
+Contribuições são bem-vindas! Sinta-se à vontade de E-mail solicitando
 
 ## 📑| Licença
 Este projeto está licenciado sob a MIT License.
