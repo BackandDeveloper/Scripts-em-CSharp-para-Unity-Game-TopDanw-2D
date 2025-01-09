@@ -58,7 +58,7 @@ Este script define a funcionalidade de um menu de jogo, permitindo que o jogador
 ## 🔫| Ataque inimgo
  <img width="700" alt="6fea2e9c-933e-4776-8360-a76bd3b65591_Screen_Shot_2020_06_17_at_6 27 02_PM" src="" />
 
-(h
+
 ## 👥| Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade de E-mail solicitando!
 
