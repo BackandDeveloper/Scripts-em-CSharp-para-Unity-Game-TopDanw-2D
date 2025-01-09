@@ -67,7 +67,6 @@ Este script define a funcionalidade de um menu de jogo, permitindo que o jogador
 ![maxresdefault](https://github.com/user-attachments/assets/0d5ba7d2-4523-46fe-a7cd-73a7d1eebdd4)
 
 
-
 ## 👥| Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
 
